@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Calculator</string>
+    <string name="help_instructions">Please enter 2 operands</string>
+</resources>
